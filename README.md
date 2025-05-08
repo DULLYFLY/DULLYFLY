@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Eduardo, e eu sou estudante de Cybersecurity.</p>
+<p align="left">Cybersecurity.</p>
 
 ###
 
